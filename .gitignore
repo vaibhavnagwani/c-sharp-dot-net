@@ -3,8 +3,5 @@
 ################################################################################
 
 /.vs
-/Calculator/bin/Debug/net5.0
-/Calculator/obj
-/Basics/.vs/Basics/v16
-/Basics/obj
-/Basics/bin/Debug/net5.0
+/obj
+/bin
