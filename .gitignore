@@ -5,3 +5,5 @@
 /.vs
 /obj
 /bin
+/Basics/.vs/Basics/v16
+/Basics/bin/Debug/net5.0
